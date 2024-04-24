@@ -5,6 +5,7 @@ Assignment:     Project 2
 Course:         CPSC1050
 Lab Section:    001
 
+https://github.com/KruseMissile/Project-2.git
 """
 
 import random
